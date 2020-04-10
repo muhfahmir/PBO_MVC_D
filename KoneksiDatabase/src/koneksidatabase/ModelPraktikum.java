@@ -93,4 +93,18 @@ public class ModelPraktikum {
             System.out.println(sql.getMessage());
         }
     }
+    public void updateMahasiswa(String nim, String nama, String alamat){
+        try{
+
+            statement = koneksi.createStatement();
+
+            String query = "UPDATE `mahasiswa` SET `nim`='"+nim+"',`nama`='"+nama+"',`alamat`='"+alamat+"' WHERE `nim` = '"+nim+"'";
+            statement.executeUpdate(query);
+
+            JOptionPane.showMessageDialog(null, "Edit Data Sukses!");
+
+        }catch(Exception ex){
+            System.out.println(ex.getMessage());
+        }
+    }
 }
