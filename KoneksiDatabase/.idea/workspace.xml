@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86e2e368-63f6-4290-8886-f8981fd9acf5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/KoneksiDatabase.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_8_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c8d63aab-6162-4a7b-8860-3536470c0bb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +11,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="ProjectId" id="1aOKNUPUDjxB0gksUzRKGEnDXyE" />
+  <component name="ProjectId" id="1aONc5duMBpptC4WjOas9tUbv03" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,42 +54,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86e2e368-63f6-4290-8886-f8981fd9acf5" name="Default Changelist" comment="" />
-      <created>1586601159476</created>
+      <changelist id="c8d63aab-6162-4a7b-8860-3536470c0bb4" name="Default Changelist" comment="" />
+      <created>1586602757306</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586601159476</updated>
+      <updated>1586602757306</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586601425254">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586602932374">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586601425254" />
-    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586601425254">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586602932374" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586602932374">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586601425254" />
-    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586601425254">
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586602932374" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586602932374">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586601425254" />
-    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586601425254">
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586602932374" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586602932374">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586601425254" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1586601348356">
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586602932374" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1586602843014">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586601348356" />
-    <state x="387" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586601337698">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586602843014" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586603184192">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="387" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1586601337698" />
-    <state x="492" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586601475682">
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586603184192" />
+    <state x="387" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586602838118">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1586601475682" />
+    <state x="387" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1586602838118" />
   </component>
 </project>
