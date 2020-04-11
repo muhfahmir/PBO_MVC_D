@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/KoneksiDatabase.iml" filepath="$PROJECT_DIR$/.idea/KoneksiDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KoneksiDatabase.iml" filepath="$PROJECT_DIR$/KoneksiDatabase.iml" />
     </modules>
   </component>
 </project>
