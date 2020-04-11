@@ -12,6 +12,7 @@ public class ControllerPraktikum {
     //perantara model dan view
     ModelPraktikum modelPraktikum;
     ViewPraktikum viewPraktikum;
+    ViewFormEdit viewFormEdit;
     String dataterpilih = null;
     int baris,kolom;
 
@@ -46,8 +47,8 @@ public class ControllerPraktikum {
                     viewPraktikum.tfAlamatMhs.setText("");
 
                     //untuk menampilkan output langsung tanpa reload
-                    String dataMahasiswa[][] = modelPraktikum.readMahasiswa();
-                    viewPraktikum.tabel.setModel(new JTable(dataMahasiswa, viewPraktikum.namaKolom).getModel());
+                    // updateTable
+                    updateTable(); // ke arah method updateTable
                 }
 
             }
@@ -90,9 +91,10 @@ public class ControllerPraktikum {
                     if (dataterpilih != null) {
                         modelPraktikum.deleteMahasiswa(dataterpilih);
                         // update tabel
-                        String dataMahasiswa[][] = modelPraktikum.readMahasiswa();
-                        viewPraktikum.tabel.setModel(new JTable(dataMahasiswa, viewPraktikum.namaKolom).getModel());
-                        viewPraktikum.btnHapusPanel.setEnabled(true);
+                        updateTable(); // mengarah ke method updateTable
+                        viewPraktikum.btnHapusPanel.setEnabled(false);
+                        viewPraktikum.btnUpdatePanel.setEnabled(false);
+                        viewPraktikum.btnTambahPanel.setEnabled(true);
                     }
                 } catch (Exception ex) {
                     System.out.println(ex.getMessage());
@@ -101,6 +103,56 @@ public class ControllerPraktikum {
             }
         });
 
+        viewPraktikum.btnUpdatePanel.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent ae) {
+                try{
+                    if(dataterpilih != null){
+                        String dataEditNim = viewPraktikum.tabel.getValueAt(baris,0).toString();
+                        String dataEditNama = viewPraktikum.tabel.getValueAt(baris,1).toString();
+                        String dataEditAlamat = viewPraktikum.tabel.getValueAt(baris,2).toString();
 
+                        System.out.println("data edit terpilih :"+dataEditNim+" "+dataEditNama+" "+dataEditAlamat+"");
+                        viewFormEdit = new ViewFormEdit();
+
+                        viewPraktikum.dispose();
+                        viewFormEdit.tfnim.setText(dataEditNim);
+                        viewFormEdit.tfnama.setText(dataEditNama);
+                        viewFormEdit.taalamat.setText(dataEditAlamat);
+                        viewFormEdit.tfnim.setEditable(false);
+                        viewFormEdit.btnBatalPanel.addActionListener(new ActionListener() {
+                            @Override
+                            public void actionPerformed(ActionEvent e) {
+                                viewFormEdit.dispose();
+                                MVC_Praktikum mvc_praktikum = new MVC_Praktikum();
+                            }
+                        });
+                        viewFormEdit.btnUpdatePanel.addActionListener(new ActionListener() {
+                            @Override
+                            public void actionPerformed(ActionEvent ae) {
+                                if(dataterpilih != null){
+                                    modelPraktikum.updateMahasiswa(
+                                            viewFormEdit.getTfnim(),
+                                            viewFormEdit.getTfnama(),
+                                            viewFormEdit.getTaalamat());
+                                    viewFormEdit.dispose();
+                                    MVC_Praktikum mvc_praktikum = new MVC_Praktikum();
+                                }
+                            }
+                        });
+                    }
+                }catch(Exception ex){
+                    System.out.println(ex.getMessage());
+                    System.out.println("Edit Gagal!");
+                }
+            }
+        });
+
+
+    }
+
+    private void updateTable(){
+        String dataMahasiswa[][] =modelPraktikum.readMahasiswa();
+        viewPraktikum.tabel.setModel(new JTable(dataMahasiswa,viewPraktikum.namaKolom).getModel());
     }
 }
