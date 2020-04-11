@@ -148,6 +148,17 @@ public class ControllerPraktikum {
             }
         });
 
+        viewPraktikum.btnExitPanel.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                int selectedOption = JOptionPane.showConfirmDialog(null,
+                        "Apakah anda akan menutup Aplikasi?", "Tutup Aplikasi", JOptionPane.YES_NO_OPTION);
+                if (selectedOption == JOptionPane.YES_OPTION) {
+                    System.exit(0);
+                }
+            }
+        });
+
 
     }
 
