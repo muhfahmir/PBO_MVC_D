@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90f2f78-224d-4751-853d-cccb2de5dea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$5$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$5$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ViewFormEdit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/koneksidatabase/ViewFormEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/KoneksiDatabase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KoneksiDatabase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5cd13f70-fcbf-4776-b3fe-5700e41c969c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ControllerPraktikum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/MVC_Praktikum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ModelPraktikum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ModelPraktikum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ViewPraktikum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoneksiDatabase/koneksidatabase/ViewPraktikum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/koneksidatabase/ControllerPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/koneksidatabase/ControllerPraktikum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/koneksidatabase/ModelPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/koneksidatabase/ModelPraktikum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/koneksidatabase/ViewPraktikum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/koneksidatabase/ViewPraktikum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aNpNHUpi0wdwPJ6w5kINwUTLAs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -88,26 +69,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="43" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1586590150094" />
-    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1586589555693">
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog" timestamp="1586592651103">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1586589555693" />
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586591733314">
+    <state x="92" y="92" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1586592651103" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586592731713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586591733314" />
-    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586591733314">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586592731713" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586592731713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586591733314" />
-    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586591733314">
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586592731713" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586592731713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586591733314" />
-    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586591733314">
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586592731713" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586592731713">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586591733314" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586592731713" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1586586108409">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
