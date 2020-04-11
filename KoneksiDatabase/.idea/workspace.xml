@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90f2f78-224d-4751-853d-cccb2de5dea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="D:\FAHMI\sem 4\Prak PBO\Praktikum\PBO_MVC_D\KoneksiDatabase\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1aJbALHNnqYYpptEJnsWPgmkF2X" />
+  <component name="ProjectId" id="1aNpNHUpi0wdwPJ6w5kINwUTLAs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,16 +21,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -72,53 +51,29 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d90f2f78-224d-4751-853d-cccb2de5dea9" name="Default Changelist" comment="" />
-      <created>1586456498687</created>
+      <created>1586585863068</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586456498687</updated>
+      <updated>1586585863068</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="43" key="#Project_Structure" timestamp="1586584609295">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586585998722">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="43" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1586584609295" />
-    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1586584517808">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586585998722" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586585998722">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586584517808" />
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1586533641877">
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586585998722" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586585998722">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586533641877" />
-    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1586533641877">
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586585998722" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586585998722">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586533641877" />
-    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1586533641877">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586533641877" />
-    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1586533641877">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586533641877" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1586585660154">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586585660154" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1586584341812">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586584341812" />
-    <state x="468" y="148" width="591" height="253" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586585655336">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="468" y="148" width="591" height="253" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1586585655336" />
-    <state x="314" y="81" width="737" height="606" key="find.popup" timestamp="1586502366355">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="314" y="81" width="737" height="606" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1586502366355" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586585998722" />
   </component>
 </project>
